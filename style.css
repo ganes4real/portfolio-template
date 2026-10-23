@@ -3,7 +3,7 @@
     --fg: #1a1a2e;
     --muted: #5b6475;
     --card: #f3f4f8;
-    --accent: #e8590c;
+    --accent: #0ce813;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -28,7 +28,7 @@ body {
 }
 
 .hero {
-    text-align: center;
+    text-align: left;
     padding: 64px 20px 32px;
 }
 
